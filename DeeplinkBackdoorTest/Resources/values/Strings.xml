@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">DeeplinkBackdoorTest</string>
+  <string name="filter_title_viewgizmos">filter_title_viewgizmos</string>
+  <string name="title_gizmos">title_gizmos</string>
+</resources>
